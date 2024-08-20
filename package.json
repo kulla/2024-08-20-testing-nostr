@@ -10,6 +10,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "fp-ts": "^2.16.9",
+    "io-ts": "^2.2.21",
     "next": "14.2.5",
     "nostr-tools": "^2.7.2",
     "react": "^18",
